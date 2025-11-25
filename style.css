@@ -1,0 +1,22 @@
+body {
+    color: deeppink;
+    background-color: darkgray;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+a {
+    color: forestgreen;
+}
+
+p {
+    font-family: Palatino;
+    border-width: 1px;
+    border-style: solid; 
+    border-color: deeppink; 
+}
+
+div#container {
+    margin: 0 auto;
+    max-width: 800px;
+}
