@@ -2,7 +2,7 @@ body {
     color: deeppink;
     background-color: darkgray;
     font-size: 24px;
-    font-family: Arial;
+    font-family: Arial, sans-serif;
 }
 
 a {
@@ -10,10 +10,9 @@ a {
 }
 
 p {
-    font-family: Palatino;
-    border-width: 1px;
-    border-style: solid; 
-    border-color: deeppink; 
+    font-family: Palatino, serif;
+    border: 1px solid deeppink;
+    padding: 10px;
 }
 
 div#container {
